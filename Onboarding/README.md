@@ -14,6 +14,7 @@ The EK60 is the previous generation scientific echosounder. It was introduced in
 The EK500 was used from the 1980s (1970s?) until the early 2000s on NOAA ships. More on this...   
 
 # Data collection: Formats
+## Data formats are found in [netCDF4_Formats](https://github.com/nmfs-ost/AA-SI/tree/main/Onboarding/netCDF4_Formats)
 The EK500, EK60/ER60, and EK80 echosounders recorded data in binary format. The format is proprietary and was developed by Kongsberg. Kongsberg freely distributes the format for anyone with interest in the data to develop software to read the data. The format differs among data acquisition systems and software, so it is important that the user know the source of the data. As part of this AA-SI, we will be primarily working with data that have been converted from the Kongsberg-format data (e.g., ".raw" files) to netCDF4 format by [Echopype](https://echopype.readthedocs.io/en/stable/). We will be heavily invested in Echopype, so we will focus on the netCDF4 format.  
   
 The netCDF4 acoustic data follow several conventions: [netCDF4](https://unidata.github.io/netcdf4-python/), [SONAR-netCDF4](https://github.com/ices-publications/SONAR-netCDF4), and [AcMeta](https://github.com/ices-publications/AcMeta).  
