@@ -1,7 +1,7 @@
 # Onboarding Materials for Active Acoustics Strategic Initiative
 
 # Background
-
+The goals of the Active Acoustics Strategic Initiative (AA-SI) include organizing and standardizing multi-frequency and wide-bandwidth echosounder data to enable efficient data processing and analysis. This repository houses useful background information on how active acoustics are used to study fish and zooplankton, the types of equipment and data formats commonly employed, and requirements for data standarization. 
 
 # Data collection: Equipment
 ## EK80  
@@ -14,7 +14,11 @@ The EK60 is the previous generation scientific echosounder. It was introduced in
 The EK500 was used from the 1980s (1970s?) until the early 2000s on NOAA ships. More on this...   
 
 # Data collection: Formats
-## Data formats are found in [netCDF4_Formats](https://github.com/nmfs-ost/AA-SI/tree/main/Onboarding/netCDF4_Formats)
+Data formats are found in [netCDF4_Formats](https://github.com/nmfs-ost/AA-SI/tree/main/Onboarding/netCDF4_Formats)
 
 
 # Data standardization
+
+# Reading Materials
+[Discovery of Sound in the Ocean: How sound is used to locate fish](https://dosits.org/people-and-sound/fishing/how-is-sound-used-to-locate-fish/)
+
