@@ -22,3 +22,5 @@ Data formats are found in [netCDF4_Formats](https://github.com/nmfs-ost/AA-SI/tr
 # Reading Materials
 [Discovery of Sound in the Ocean: How sound is used to locate fish](https://dosits.org/people-and-sound/fishing/how-is-sound-used-to-locate-fish/)
 
+[Acoustics Unpacked: Background](http://www2.dnr.cornell.edu/acoustics/AcousticBackground.html)
+
