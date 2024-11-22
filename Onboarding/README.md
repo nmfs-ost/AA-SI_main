@@ -24,3 +24,7 @@ Data formats are found in [netCDF4_Formats](https://github.com/nmfs-ost/AA-SI/tr
 
 [Acoustics Unpacked: Background](http://www2.dnr.cornell.edu/acoustics/AcousticBackground.html)
 
+# Google Workspace
+We have a Google workspace. Details are in [Google Workspace](https://github.com/nmfs-ost/AA-SI/tree/main/Onboarding/GoogleWorkspace)  
+
+
