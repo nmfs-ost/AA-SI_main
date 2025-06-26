@@ -1,7 +1,11 @@
 # AA-SI
 Software and idea sharing for the IRA-EDA Active Acoustics Strategic Initiative
 
-List of repositories associated with AA-SI:
+When creating a new repository, use <b>"AA-SI_"</b> at the front of the name, to facilitate searches within the nmfs-ost organization
+
+### List of (main) repositories associated with AA-SI:
+
+#### All repositories related to AA-SI efforts can be found by searching for "AA-SI" in the [NMFS-OST organization](https://github.com/nmfs-ost), or by clicking [here](https://github.com/orgs/nmfs-ost/repositories?q=AA).
 
 [AA-SI_GPCSetup](https://github.com/nmfs-ost/AA-SI_GPCSetup): A startup script that sets up new users and environments with AA-SI tools and resources.
 
@@ -11,7 +15,6 @@ List of repositories associated with AA-SI:
 
 [AA-SI_echoSMs](https://github.com/nmfs-ost/AA-SI_echoSMs): Information and link to ICES-developed Acoustic Scattering Models.
 
-All repositories associated with AA-SI efforts can also be found by searching for "AA-SI" in the main [NMFS-OST organization](https://github.com/nmfs-ost), or by clicking [here](https://github.com/orgs/nmfs-ost/repositories?q=AA).
 
 
 ## Disclaimer
